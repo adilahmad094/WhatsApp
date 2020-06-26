@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261365685203",
+    "firebase_url": "https://whatsapp-094.firebaseio.com",
+    "project_id": "whatsapp-094",
+    "storage_bucket": "whatsapp-094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261365685203:android:7beafbffee76931ece2d26",
+        "android_client_info": {
+          "package_name": "com.adilahmad.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261365685203-ia2855sa8foshd73o31ab1khhvaq4j7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_j-yGp1WSiDBXrUzrPSq_-xjzzDPTxFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261365685203-ia2855sa8foshd73o31ab1khhvaq4j7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
